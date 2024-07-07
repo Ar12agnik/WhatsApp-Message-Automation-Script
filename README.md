@@ -1,6 +1,4 @@
 
-
-```markdown
 # WhatsApp Message Automation Script
 
 This Python script automates sending a WhatsApp message to multiple contacts using `pywhatkit` and `pyautogui`.
@@ -14,7 +12,7 @@ Before running the script, make sure you have the following Python libraries ins
 You can install them using pip:
 ```bash
 pip install pywhatkit pyautogui
-```
+
 
 ## Setup
 
