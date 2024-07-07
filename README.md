@@ -12,7 +12,7 @@ Before running the script, make sure you have the following Python libraries ins
 You can install them using pip:
 ```bash
 pip install pywhatkit pyautogui
-
+'''
 
 ## Setup
 
